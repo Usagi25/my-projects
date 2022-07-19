@@ -4,3 +4,6 @@
 - July 19th, 2022
 
 ### Let's **do it**
+
+# Planned content
+- Shiny Apps!
