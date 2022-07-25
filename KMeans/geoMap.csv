@@ -1,0 +1,52 @@
+Region,humidifier: (7/25/21 - 7/25/22),dehumidifier: (7/25/21 - 7/25/22),black mold: (7/25/21 - 7/25/22)
+Colorado,0.83,0.07,0.1
+Illinois,0.71,0.2,0.09
+Michigan,0.62,0.27,0.11
+South Dakota,0.62,0.26,0.12
+Nebraska,0.66,0.22,0.12
+Minnesota,0.61,0.27,0.12
+North Dakota,0.61,0.28,0.11
+Pennsylvania,0.54,0.35,0.11
+New Jersey,0.63,0.27,0.1
+Iowa,0.6,0.28,0.12
+New York,0.58,0.33,0.09
+Wisconsin,0.55,0.34,0.11
+Ohio,0.57,0.3,0.13
+New Mexico,0.77,0.08,0.15
+Massachusetts,0.58,0.32,0.1
+Kansas,0.6,0.23,0.17
+New Hampshire,0.51,0.37,0.12
+Virginia,0.62,0.26,0.12
+Montana,0.67,0.15,0.18
+Alaska,0.64,0.21,0.15
+Wyoming,0.75,0.07,0.18
+Rhode Island,0.47,0.38,0.15
+Maryland,0.6,0.29,0.11
+Utah,0.73,0.09,0.18
+Nevada,0.79,0.08,0.13
+Indiana,0.56,0.29,0.15
+Missouri,0.57,0.27,0.16
+District of Columbia,0.62,0.26,0.12
+Vermont,0.48,0.37,0.15
+West Virginia,0.53,0.29,0.18
+Idaho,0.69,0.12,0.19
+Maine,0.47,0.37,0.16
+Connecticut,0.48,0.39,0.13
+Arizona,0.74,0.09,0.17
+Oklahoma,0.59,0.21,0.2
+California,0.7,0.15,0.15
+North Carolina,0.59,0.26,0.15
+Kentucky,0.52,0.29,0.19
+Texas,0.68,0.18,0.14
+Delaware,0.5,0.38,0.12
+Georgia,0.57,0.27,0.16
+Mississippi,0.53,0.26,0.21
+Tennessee,0.48,0.34,0.18
+Arkansas,0.53,0.28,0.19
+Alabama,0.47,0.34,0.19
+South Carolina,0.49,0.33,0.18
+Washington,0.53,0.26,0.21
+Oregon,0.5,0.29,0.21
+Louisiana,0.49,0.31,0.2
+Florida,0.53,0.31,0.16
+Hawaii,0.44,0.39,0.17
